@@ -1,0 +1,61 @@
+.items {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    }
+
+    .span{
+        margin: 1rem;
+        width: 20rem;
+    }
+
+    .image{
+        height: 50px;
+        width: 80px;
+    }
+
+    .removebtn {
+        height: 2rem;
+        background-color: white;
+        color: black;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-left: 3rem;
+    }
+
+    .removebtn:hover,
+    .removebtn :active {
+      background-color: black;
+      border-color:  black;
+      color: white
+    }
+
+    .total{
+        margin: 1rem;
+        font-size: 25px;
+       
+      }
+    
+      .total-div{
+        margin-top: 1rem;
+      }
+
+      .valbtn{
+       width: 2rem;
+       color: black;
+       border: 1px solid black;
+       border-radius: 5px ;
+       cursor: pointer;
+       margin: 1px;
+      }
+
+      .valbtn:hover,
+      .valbtn :active {
+        background-color: black;
+        border-color:  black;
+        color: white
+      }
+
+      .valdiv{
+        margin-left: 1.5rem;
+      }

@@ -1,0 +1,13 @@
+.subHeader {
+  height: 200px;
+  width: auto;
+  background-color: grey;
+  padding: 0px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: white;
+}
